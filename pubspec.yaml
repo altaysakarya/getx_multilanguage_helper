@@ -1,6 +1,6 @@
 name: getx_multilanguage_helper
 description: "Simplify multilanguage support in Flutter with GetX. Manage translations effortlessly, switch between languages, and enhance localization."
-version: 0.0.1
+version: 0.0.2
 homepage:
 
 environment:
