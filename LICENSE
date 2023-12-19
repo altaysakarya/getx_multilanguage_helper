@@ -1,6 +1,6 @@
 MIT License
 
-GetxMultilanguageHelper - The BasicAnimatedText package provides a widget for animating the content transitions in a Flutter application. It offers various animation types such as slide, fade, and combinations of both. The widget allows you to animate the child widget's entry and exit with customizable duration and animation styles.
+GetxMultilanguageHelper - The GetxMultilanguageHelper provides a convenient way to manage multilanguage support in your Flutter applications using the GetX state management library. It includes controllers, translations, and configuration classes to streamline the implementation of multilanguage features.
 
 Copyright 2023 Altay Sakarya
 
